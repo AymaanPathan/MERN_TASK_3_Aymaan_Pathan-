@@ -39,6 +39,13 @@ Technologies Used
     npm i vite
     ```
 
+2. Install Toasting Notification:
+
+    ```bash
+    npm i react-hot-toast
+    ```
+    
+
 4. Run the project:
     ```bash
    npm run dev
