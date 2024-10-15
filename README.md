@@ -17,3 +17,28 @@ Technologies Used
 
 <li>React Hot Toast: For notifications (e.g., table added or deleted).</li>
 
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/dynamic-form-react.git
+   ````
+
+
+
+2. Install dependencies:
+
+    ```bash
+    npm i vite
+    ```
+
+4. Run the project:
+    ```bash
+   npm run dev
+    ```
+
+
+<h2>Tech Stack</h2>
+<li>Frontend: React.js</li>
+<li>Styling: Tailwind CSS</li>
