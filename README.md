@@ -7,7 +7,7 @@ This project is a dynamic table generator built with React, styled using Tailwin
 <img width="959" alt="Screenshot 2024-10-15 132804" src="https://github.com/user-attachments/assets/98dc9c89-1779-4fc1-bcd3-178ec78f6125">
 
 ## Live link
-https://mern-task-3-aymaan-pathan.vercel.app/
+https://mern-task-3-dynamic-table.vercel.app/
 
 ## Features
 <span>Add Dynamic Tables: Create tables with rows and columns dynamically with just a button click.
