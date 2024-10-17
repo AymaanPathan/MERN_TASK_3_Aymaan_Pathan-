@@ -23,6 +23,9 @@ const DynamicTable = () => {
   return (
     <div className="p-8 ">
       <h2 className="text-2xl font-bold mb-4">Dynamic Table Generator</h2>
+      <p className="mt-6 mb-6 text-lg text-red-600">
+        Change Array Values from DynamicTable.jsx to Generate New Table{" "}
+      </p>
       <button
         onClick={addTable}
         className="bg-blue-500 text-white px-4 py-2 rounded-md hover:bg-blue-600 transition"
