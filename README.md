@@ -31,6 +31,10 @@ Technologies Used
    git clone https://github.com/AymaanPathan/MERN_TASK_3_Aymaan_Pathan-.git
    ````
 
+2. Change Directory
+   ````bash
+   cd .\Dynamic_Table\
+   ````
 
 
 2. Install dependencies:
