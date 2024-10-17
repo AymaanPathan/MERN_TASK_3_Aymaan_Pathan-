@@ -4,7 +4,8 @@
 This project is a dynamic table generator built with React, styled using Tailwind CSS, and provides user notifications using React Hot Toast. Users can dynamically create and delete tables, with each table generated based on a predefined structure (headers and rows).
 
 
-<img width="959" alt="Screenshot 2024-10-15 132804" src="https://github.com/user-attachments/assets/98dc9c89-1779-4fc1-bcd3-178ec78f6125">
+<img width="959" alt="Screenshot 2024-10-17 133043" src="https://github.com/user-attachments/assets/c10e8efd-f921-4fee-94a1-31d0217bffc2">
+
 
 ## Live link
 https://mern-task-3-dynamic-table.vercel.app/
